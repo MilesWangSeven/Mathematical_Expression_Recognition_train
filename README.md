@@ -15,3 +15,5 @@
 * 每轮约10多分钟
 
 ![](train_time/train_time.jpg)
+
+![](train_time/model_loss.jpg)
