@@ -1,0 +1,47 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+blas=1.0=mkl
+ca-certificates=2018.11.29=ha4d7672_0
+certifi=2018.8.24=py35_1001
+cycler=0.10.0=py_1
+freetype=2.9.1=h5db478b_1005
+graphviz=2.38.0=h6538335_1011
+hdf5=1.10.2=he51fdeb_2
+icc_rt=2019.0.0=h0cc432a_1
+icu=58.2=ha66f8fd_1
+intel-openmp=2019.1=144
+jpeg=9c=hfa6e2cd_1001
+kiwisolver=1.0.1=py35he980bc4_2
+libopencv=3.4.1=h875b8b8_3
+libpng=1.6.36=h7602738_1000
+libtiff=4.0.10=h36446d0_1001
+libwebp=0.5.2=7
+matplotlib=3.0.0=py35hd159220_0
+mkl=2018.0.3=1
+mkl_fft=1.0.9=py35_0
+mkl_random=1.0.1=py35_0
+numpy=1.15.2=py35ha559c80_0
+numpy-base=1.15.2=py35h8128ebf_0
+opencv=3.4.1=py35h6fd60c2_3
+openssl=1.1.1a=hfa6e2cd_1000
+pandas=0.23.4=py35h830ac7b_0
+pip=18.0=py35_1001
+py-opencv=3.4.1=py35h1b0d24d_3
+pydot=1.2.4=py35_1
+pyparsing=2.3.1=py_0
+pyqt=5.9.2=py35h6538335_2
+python=3.5.5=he025d50_2
+python-dateutil=2.7.5=py_0
+pytz=2018.9=py_0
+qt=5.9.7=vc14h73c81de_0
+setuptools=40.4.3=py35_0
+sip=4.19.8=py35h6538335_1000
+six=1.11.0=py35_1
+sqlite=3.26.0=hfa6e2cd_1000
+tornado=5.1.1=py35hfa6e2cd_0
+vc=14.1=h0510ff6_4
+vs2015_runtime=14.15.26706=h3a45250_0
+wheel=0.32.0=py35_1000
+wincertstore=0.2=py35_1002
+zlib=1.2.11=h2fa13f4_1004
